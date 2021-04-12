@@ -22,6 +22,5 @@ Software able to download episodes / subtitles from the [BrutX](https://www.brut
 
 Design for Windows (Fuck Linux / MacOS).
 
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
