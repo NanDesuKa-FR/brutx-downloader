@@ -1,6 +1,6 @@
 # brutx-downloader
 
-Software able to download episodes from the [BrutX](https://www.brutx.com/) website.
+Software able to download episodes / subtitles from the [BrutX](https://www.brutx.com/) website. An account is required.
 
 ## Dependence necessary
 
