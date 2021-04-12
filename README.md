@@ -19,6 +19,7 @@ Software able to download episodes from the [BrutX](https://www.brutx.com/) webs
 
 ## Warning
 **This downloader is not optimised, it was made to help the community. Its only purpose is to work, not to perform.**
+
 Design for Windows (Fuck Linux / MacOS).
 
 
