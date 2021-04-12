@@ -10,6 +10,7 @@ import subprocess
 
 N_m3u8DL_CLI_ver = "2.9.7"
 
+
 def downloadFile(FileLink, title):
     if FileLink[1] == 0:
         r = requests.get(FileLink[0], headers={'Cache-Control': 'no-cache'}, stream=True)
@@ -123,8 +124,8 @@ def returnAPI_PLAYER(driver, get_url):
                 response = requests.post(event["params"]["response"]["url"], headers=headers)
 
                 return response.text
-        except:
-            console = False
+        except Exception:
+            pass
 
 
 def launch():
@@ -148,6 +149,7 @@ def launch():
     fileLink = extracturl(api)
     print("Start downloading the file...")
     downloadFile(fileLink, titleclean)
+
 
 if __name__ == "__main__":
     launch()
