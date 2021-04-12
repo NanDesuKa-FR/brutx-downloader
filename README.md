@@ -14,7 +14,7 @@ Software able to download episodes / subtitles from the [BrutX](https://www.brut
 
 ```py .\__main__.py -username YOUR_EMAIL -password YOUR_PASSWORD -url https://home.brutx.com/content/a-la-rencontre-de-forrester-30732 ```
 
-## What should my download folder look like?
+## What should my download folder look like
 ![preview](https://i.fiery.me/mFCYC.png)
 
 ## Warning
