@@ -1,5 +1,3 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/47a4017e2d4244fcb3da6ad3749823cb)](https://www.codacy.com/gh/NanDesuKa-FR/brutx-downloader/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NanDesuKa-FR/brutx-downloader&amp;utm_campaign=Badge_Grade)
-
 # brutx-downloader
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/44add2d534fb4d8a89cf170fca3dcc24)](https://app.codacy.com/gh/NanDesuKa-FR/brutx-downloader?utm_source=github.com&utm_medium=referral&utm_content=NanDesuKa-FR/brutx-downloader&utm_campaign=Badge_Grade_Settings)
