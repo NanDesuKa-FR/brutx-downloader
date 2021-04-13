@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/030ae57b49c64b74bf6da574ba7fce1b)](https://www.codacy.com/gh/NanDesuKa-FR/lot.moe-upload-api/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NanDesuKa-FR/lot.moe-upload-api&amp;utm_campaign=Badge_Grade)
+
 # brutx-downloader
 
 Software able to download episodes / subtitles from the [BrutX](https://www.brutx.com/) website. An account is required.
