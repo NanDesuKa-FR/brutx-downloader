@@ -2,6 +2,8 @@
 
 # brutx-downloader
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/44add2d534fb4d8a89cf170fca3dcc24)](https://app.codacy.com/gh/NanDesuKa-FR/brutx-downloader?utm_source=github.com&utm_medium=referral&utm_content=NanDesuKa-FR/brutx-downloader&utm_campaign=Badge_Grade_Settings)
+
 Software able to download episodes / subtitles from the [BrutX](https://www.brutx.com/) website. An account is required.
 
 ## Dependence necessary
