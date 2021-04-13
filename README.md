@@ -1,4 +1,4 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/030ae57b49c64b74bf6da574ba7fce1b)](https://www.codacy.com/gh/NanDesuKa-FR/lot.moe-upload-api/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NanDesuKa-FR/lot.moe-upload-api&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/47a4017e2d4244fcb3da6ad3749823cb)](https://www.codacy.com/gh/NanDesuKa-FR/brutx-downloader/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NanDesuKa-FR/brutx-downloader&amp;utm_campaign=Badge_Grade)
 
 # brutx-downloader
 
